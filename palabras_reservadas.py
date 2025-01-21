@@ -40,3 +40,10 @@ palabras_reservadas = [
     'with',
     'yield'
 ]
+# Las palabras reservadas no se deben de usar, Ejemplo
+
+nombre = "Kevin"
+print (nombre)
+
+#obtener el total de palabras reservadas 
+print(len(palabras_reservadas))
